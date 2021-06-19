@@ -1,5 +1,5 @@
 ﻿# Config
-NODE_ID = smt
+NODE_ID = 8
 
 
 # hour,set 0 to disable
